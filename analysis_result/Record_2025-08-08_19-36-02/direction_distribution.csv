@@ -1,11 +1,11 @@
 class;count;percent
-forward;572;20.01
-light_left;520;18.19
-light_right;31;1.08
+forward;555;20.25
+light_left;506;18.46
+light_right;27;0.99
 pivot_left;0;0.0
 pivot_right;0;0.0
 sharp_left;0;0.0
 sharp_right;0;0.0
-backward;169;5.91
-stop;1567;54.81
+backward;158;5.76
+stop;1495;54.54
 other;0;0.0
